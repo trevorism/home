@@ -2,12 +2,6 @@
 	font-family: Verdana, Helvetica, Arial;
 }
 
-a:link{color: #0000D9;}
-a:visited {color: #0000D9;}
-a:hover {color: #F88017;}
-a:active {color: #0000D9;}
-
-
 .title {
 	text-align: center;
 	font-size: 20px;
@@ -18,10 +12,6 @@ a:active {color: #0000D9;}
 	font-size: 14px;
     color: #FF7260;
 	text-decoration: underline;
-}
-
-.background-header{
-	background-color: #DDDDDD;	
 }
 
 .header-text{
