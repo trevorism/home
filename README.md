@@ -1,2 +1,2 @@
-# home
-trevorism.com home page
+# trevorism.com
+Source code for [trevorism.com](http://trevorism.com)
