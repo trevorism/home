@@ -1,6 +1,6 @@
 body {
-    background-color: #505050;
     margin: 0;
+
     font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
 }
 
@@ -40,7 +40,7 @@ hr{
 }
 
 .content {
-    color: #FFF5C3;
+    color: #000000;
     font-size: 18px;
     overflow: auto;
 }
