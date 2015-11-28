@@ -1,6 +1,5 @@
 body {
     margin: 0;
-
     font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
 }
 
@@ -11,8 +10,6 @@ hr{
 .headerLink{
     margin: 10px;
 }
-
-
 
 .headerLink:link, .headerLink:visited {
 
@@ -31,8 +28,6 @@ hr{
     line-height: 50px;
     overflow: hidden;
 }
-
-/**/
 
 .title{
     color: #129793;
