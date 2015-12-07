@@ -11,15 +11,11 @@ hr{
     margin: 10px;
 }
 
-.headerLink:link, .headerLink:visited {
+.headerLink:link, .headerLink:visited, .headerLink:hover, .headerLink:active {
 
     font-size: 24px;
-    color: #9BD7D5;
+    color: #129793;
     text-decoration: none;
-}
-
-.headerLink:hover, .headerLink:active {
-    color: #FFF5C3;
 }
 
 .header {
