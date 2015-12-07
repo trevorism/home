@@ -23,7 +23,7 @@ $(function() {
     }
 
     function displayEvaluates() {
-        var developmentToolsEvaluate = ["Puppet", "Powershell", "Visual Studio", "Windows DSC"];
+        var developmentToolsEvaluate = ["Puppet", "Powershell", "Visual Studio", "Windows DSC", "Power BI"];
         developmentToolsEvaluate.forEach(function (value) {
             $("#evaluate-dt").append(displayTechnology(value));
         });
@@ -50,7 +50,7 @@ $(function() {
         languagesPlatformsAdopt.forEach(function (value) {
             $("#adopt-lp").append(displayTechnology(value));
         });
-        var frameworksLibrariesAdopt = ["Spring", "Jersey/Jackson", "Logback", "Junit"];
+        var frameworksLibrariesAdopt = ["Spring", "Jersey/Jackson", "Logback", "Junit", "JQuery", "Bootstrap"];
         frameworksLibrariesAdopt.forEach(function (value) {
             $("#adopt-fl").append(displayTechnology(value));
         });
