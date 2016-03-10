@@ -23,7 +23,7 @@ $(function() {
     }
 
     function displayEvaluates() {
-        var developmentToolsEvaluate = ["Puppet", "Powershell", "Visual Studio", "Windows DSC", "Power BI"];
+        var developmentToolsEvaluate = ["Puppet", "Powershell", "Windows DSC", "Power BI", "GoCD"];
         developmentToolsEvaluate.forEach(function (value) {
             $("#evaluate-dt").append(displayTechnology(value));
         });
@@ -35,7 +35,7 @@ $(function() {
         frameworksLibrariesEvaluate.forEach(function (value) {
             $("#evaluate-fl").append(displayTechnology(value));
         });
-        var databaseMessageBusEvaluate = ["SqlServer", "Kafka", "Greenplum", "Cassandra"];
+        var databaseMessageBusEvaluate = ["SqlServer", "Kafka", "Greenplum", "Cassandra", "Titan"];
         databaseMessageBusEvaluate.forEach(function (value) {
             $("#evaluate-dm").append(displayTechnology(value));
         });
