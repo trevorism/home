@@ -9,6 +9,7 @@ $(function(){
         '                    <ul class="dropdown-menu">' +
         '                        <li><a class="headerLink" href="technology.html">Technology Radar</a></li>' +
         '                        <li><a class="headerLink" href="blogs.html">Prototype Driven Development</a></li>' +
+        '                        <li><a class="headerLink" href="http://registry.datastore.trevorism.com">Service Registry</a></li>' +
         '                    </ul>' +
         '                <li><a class="headerLink" href="contact.html">Contact</a></li>' +
         '                <li><a class="headerLink" href="careers.html">Careers</a></li>' +
