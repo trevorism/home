@@ -1,35 +1,35 @@
-.avoid-bg{
+.avoid-bg {
     background-color: #ff726d
 }
 
-.evaluate-bg{
+.evaluate-bg {
     background-color: #fffe97
 }
 
-.adopt-bg{
+.adopt-bg {
     background-color: #a0ff81
 }
 
-.title-cell{
+.title-cell {
     font-weight: bold;
     font-size: 16px;
     border-bottom: solid 4px black;
 }
 
-.label-cell{
+.label-cell {
     font-weight: bold;
     font-size: 16px;
     border-right: solid 4px black;
 }
 
-.text-cell{
+.text-cell {
     border-right: solid 2px black;
 }
 
-.text-margin{
+.text-margin {
     margin-left: 5px;
 }
 
-.title-margin{
+.title-margin {
     margin-left: 10px;
 }

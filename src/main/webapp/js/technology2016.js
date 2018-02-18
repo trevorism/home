@@ -1,4 +1,4 @@
-$(function() {
+$(function () {
     var displayTechnology = function (technologyName, description) {
         return $('<div class="text-margin"></div>').html(technologyName);
     }

@@ -3,11 +3,11 @@ body {
     font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
 }
 
-hr{
+hr {
     border-color: black;
 }
 
-.headerLink{
+.headerLink {
     margin: 10px;
 }
 
@@ -25,7 +25,7 @@ hr{
     overflow: hidden;
 }
 
-.title{
+.title {
     color: #129793;
     font-size: 32px;
 }
@@ -36,28 +36,28 @@ hr{
     overflow: auto;
 }
 
-.contentMargin{
+.contentMargin {
     margin: 30px;
 }
 
-.left{
-    float:left
+.left {
+    float: left
 }
 
-.right{
+.right {
     display: inline;
     width: 480px;
 }
 
-.trevorImage{
-    float:right;
-    width:416px;
-    height:234px;
+.trevorImage {
+    float: right;
+    width: 416px;
+    height: 234px;
 }
 
-.imagelabel{
+.imagelabel {
     color: #FF7260;
     font-size: 18px;
     margin-right: 130px;
-    float:right;
+    float: right;
 }
