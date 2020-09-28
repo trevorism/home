@@ -4,6 +4,7 @@
     <application>trevorism</application>
     <version>2</version>
     <threadsafe>true</threadsafe>
+    <service>home</service>
     <system-properties>
         <property name="java.util.logging.config.file" value="WEB-INF/logging.properties"/>
     </system-properties>
